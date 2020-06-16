@@ -1,5 +1,5 @@
 # Three-Party-Lottery-Protocol-Using-Ethereum
-This project implements TPLP using Ethereum (Blockchain)
+This project implements TPLP using Ethereum (Blockchain), written in solidity
 Description of functions used:
 ## 1. Constructor
   * Some user say(user_1) press deploy button, along with the value of initial money each user will have.
